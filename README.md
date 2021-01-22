@@ -2,7 +2,7 @@
 
 ## Vetur setup
 
-# jsconfig.json
+### jsconfig.json
 
 ```
 {
