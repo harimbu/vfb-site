@@ -1,7 +1,5 @@
 # vfb-site
 
-## Vetur setup
-
 ### jsconfig.json
 
 ```
